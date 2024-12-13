@@ -17,7 +17,7 @@ Just do it
 ## Credit
 jonas schmedtmann, for his wonderful javaScript and React courses in Udemy.
 ## License
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
