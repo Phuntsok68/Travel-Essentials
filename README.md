@@ -12,11 +12,11 @@ Install latest version of Node.js and NPM
 Use create-react-app or Vite to scaffold a new React app
 ```npx create-react-app my-app cd my-app npm start```
 ```npm create vite@latest my-app --template react cd my-app npm install```
-##How to Use the Project
+## How to Use the Project
 Just do it
-##Credits
+## Credits
 jonas schmedtmann, for his wonderful javaScript and React courses in Udemy.
-##License
+## License
 MIT License
 
 
