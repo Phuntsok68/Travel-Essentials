@@ -14,7 +14,7 @@ Use create-react-app or Vite to scaffold a new React app
 ```npm create vite@latest my-app --template react cd my-app npm install```
 ## How to Use the Project
 Just do it
-## Credits
+## Credit
 jonas schmedtmann, for his wonderful javaScript and React courses in Udemy.
 ## License
 MIT License
